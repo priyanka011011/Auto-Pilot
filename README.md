@@ -95,13 +95,13 @@ This dataset encompasses about 60 individual drives of a 2020 Tesla Model 3 with
 ## Papers
 - Deep-Learning-Based Neural Network Training for State Estimation Enhancement: Application to Attitude Estimation
      - [Paper](https://ieeexplore.ieee.org/abstract/document/8643440?casa_token=7UEXpLIND5gAAAAA:WZSGDuc1fvWuk2sfwE4D8QsyhK47Xf8SXfJOpnwDpMITY65MFRGBAK4T5MKdzgi7SQuVDKAPiw)
-      - [BitTex](https://scholar.googleusercontent.com/scholar.bib?q=info:BnQbP7t8KYwJ:scholar.google.com/&output=citation&scisdr=Cm13JnzVEMW_o-NUyp0:AGlGAw8AAAAAZHxS0p0c9vS0vYXoZjkno0450f8&scisig=AGlGAw8AAAAAZHxS0pUheaeAKXK6Wip-Heq-7uk&scisf=4&ct=citation&cd=-1&hl=en)
+     - [BitTex](https://scholar.googleusercontent.com/scholar.bib?q=info:BnQbP7t8KYwJ:scholar.google.com/&output=citation&scisdr=Cm13JnzVEMW_o-NUyp0:AGlGAw8AAAAAZHxS0p0c9vS0vYXoZjkno0450f8&scisig=AGlGAw8AAAAAZHxS0pUheaeAKXK6Wip-Heq-7uk&scisf=4&ct=citation&cd=-1&hl=en)
 - Visual Autopilot Decision System Based on Deep Learning
      - [Paper](https://link.springer.com/chapter/10.1007/978-981-16-3391-1_38)
-      - [BitTex](https://scholar.googleusercontent.com/scholar.bib?q=info:L7u4tiPQ77kJ:scholar.google.com/&output=citation&scisdr=Cm13JnzVEMW_o-NVb-8:AGlGAw8AAAAAZHxTd-_lVsK6sZX0M3WXD1qvVrU&scisig=AGlGAw8AAAAAZHxTd-NEyWrfouu6FDTU4By1GyY&scisf=4&ct=citation&cd=-1&hl=en)
+     - [BitTex](https://scholar.googleusercontent.com/scholar.bib?q=info:L7u4tiPQ77kJ:scholar.google.com/&output=citation&scisdr=Cm13JnzVEMW_o-NVb-8:AGlGAw8AAAAAZHxTd-_lVsK6sZX0M3WXD1qvVrU&scisig=AGlGAw8AAAAAZHxTd-NEyWrfouu6FDTU4By1GyY&scisf=4&ct=citation&cd=-1&hl=en)
  - Smart Autopilot Drone System for Surface Surveillance and Anomaly Detection via Customizable Deep Neural Network
       - [Paper](https://onepetro.org/IPTCONF/proceedings-abstract/20IPTC/2-20IPTC/154708)
-       - [BitTex](https://scholar.googleusercontent.com/scholar.bib?q=info:7GertA_hWDgJ:scholar.google.com/&output=citation&scisdr=Cm13JnzVEMW_o-NVziM:AGlGAw8AAAAAZHxT1iMeQuLb6IxLKqht1fou6gI&scisig=AGlGAw8AAAAAZHxT1tMUhStBYpBj0f8K0kerOJI&scisf=4&ct=citation&cd=-1&hl=en)
+      - [BitTex](https://scholar.googleusercontent.com/scholar.bib?q=info:7GertA_hWDgJ:scholar.google.com/&output=citation&scisdr=Cm13JnzVEMW_o-NVziM:AGlGAw8AAAAAZHxT1iMeQuLb6IxLKqht1fou6gI&scisig=AGlGAw8AAAAAZHxT1tMUhStBYpBj0f8K0kerOJI&scisf=4&ct=citation&cd=-1&hl=en)
  
 ## Team
 - Sanjeeb Tiwary 
