@@ -85,10 +85,10 @@ The Proximal Policy Optimization (PPO) algorithm is a reinforcement learning alg
 ## Dataset
 
 This dataset encompasses about 60 individual drives of a 2020 Tesla Model 3 with Autopilot in its relevant operational domain covering more than 1,000 miles. The majority of the data was collected during highway and suburban driving. Information collected includes vehicle CAN data as well as Lidar and camera data from a vehicle mounted sensor array. Vehicle CAN data and information on traffic surrounding the Ego-vehicle derived from the sensor array are postprocessed and merged to provide one combined CVS data file per drive. 
-![compositor](https://github.com/priyanka011011/Auto-Pilot/assets/63203112/8d13082b-63ab-43ee-bdde-68186f3580e8)
-
 
 - [Dataset Download](https://www.osti.gov/dataexplorer/biblio/dataset/1922211)
+
+![compositor](https://github.com/priyanka011011/Auto-Pilot/assets/63203112/8d13082b-63ab-43ee-bdde-68186f3580e8)
 
 ## Papers
 - Deep-Learning-Based Neural Network Training for State Estimation Enhancement: Application to Attitude Estimation
