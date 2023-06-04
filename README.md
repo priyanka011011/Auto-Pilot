@@ -82,7 +82,7 @@ The objective of developing an autopilot system for autonomous driving can vary 
 
 ## Model
 
-The [Proximal Policy Optimization (PPO)](https://spinningup.openai.com/en/latest/algorithms/ppo.html) algorithm is a reinforcement learning algorithm that is widely used in training autonomous driving models and other applications. It is designed to optimize policies in environments where an agent such as the [autopilot system](https://www.flypgs.com/en/travel-glossary/autopilot#:~:text=An%20autopilot%20is%20a%20software,of%20the%20aircraft%20(heading) learns to make sequential decisions to maximize its cumulative rewards.
+The [Proximal Policy Optimization (PPO)](https://spinningup.openai.com/en/latest/algorithms/ppo.html) algorithm is a reinforcement learning algorithm that is widely used in training autonomous driving models and other applications. It is designed to optimize policies in environments where an agent such as the [autopilot system](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/automatic-pilot) learns to make sequential decisions to maximize its cumulative rewards.
 
 ![High-level-diagram-of-the-proximal-policy-optimization-algorithm](https://github.com/priyanka011011/Auto-Pilot/assets/63203112/e34bfc9f-822d-403d-a3b6-e754d29f1615)
 
