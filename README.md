@@ -3,8 +3,7 @@
 
 Using deep learning techniques, an autopilot system for autonomous driving was developed based on the Carla simulator. The system is capable of driving a car automatically for up to 100 meters. Image data captured during car driving serves as input, and a variational autoencoder is employed for data reconstruction. The deep learning model is trained using this reconstructed data and leverages the PPO algorithm for optimization. This combination of techniques enables the autopilot system to understand and interpret visual input from the car's perspective, leading to autonomous driving capabilities in the simulated environment. It's important to note that while this achievement is significant, the development of a comprehensive and safe autonomous driving system involves additional challenges, such as perception, planning, control, and real-world deployment considerations.
 
-![images (1)](https://github.com/priyanka011011/Auto-Pilot/assets/63203112/6de60d3a-aa4f-41bd-8dea-cdb2881a6a98)
-
+![Screen-Shot-2020-03-23-at-5 48 27-AM-e1584968282707](https://github.com/priyanka011011/Auto-Pilot/assets/63203112/baef228c-9ab2-4c86-b735-62690f83b48b)
 
 ## Methodology
 - Data Collection: Collect image data of car driving from the Carla simulator. This data captures the visual input perceived by the car 
