@@ -6,20 +6,22 @@ Using deep learning techniques, an autopilot system for autonomous driving was d
 ![Screen-Shot-2020-03-23-at-5 48 27-AM-e1584968282707](https://github.com/priyanka011011/Auto-Pilot/assets/63203112/baef228c-9ab2-4c86-b735-62690f83b48b)
 
 ## Methodology
-- Data Collection: Collect image data of car driving from the Carla simulator. This data captures the visual input perceived by the car 
+- [Data Collection](https://www.simplilearn.com/what-is-data-collection-article): Collect image data of car driving from the Carla simulator. This data captures the visual input perceived by the car 
   during different driving scenarios.
 
-- Variational Autoencoder (VAE) Reconstruction: Apply a variational autoencoder to reconstruct the image data. A variational autoencoder is a type of neural network that can learn an efficient representation of data and reconstruct it. By leveraging the VAE, the image data is processed and reconstructed, potentially enhancing the features and reducing noise.
+- [Variational Autoencoder (VAE) Reconstruction](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf): Apply a variational autoencoder to reconstruct the image data. A variational autoencoder is a type of neural network that can learn an efficient representation of data and reconstruct it. By leveraging the VAE, the image data is processed and reconstructed, potentially enhancing the features and reducing noise.
 
-- Dataset Preparation: Prepare the dataset by combining the original image data with the reconstructed image data from the VAE. This creates a training dataset that includes both the original images and the corresponding reconstructed images.
+- [Dataset Preparation](https://blog.jetbrains.com/datalore/2022/11/08/how-to-prepare-your-dataset-for-machine-learning-and-analysis/): Prepare the dataset by combining the original image data with the reconstructed image data from the VAE. This creates a training dataset that includes both the original images and the corresponding reconstructed images.
 
-- Deep Learning Model: Design a deep learning model, likely a convolutional neural network (CNN), to process and interpret the visual input. The model architecture is tailored to handle the specific task of autonomous driving, such as object detection, lane following, or obstacle avoidance.
+- [Deep Learning Model](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-algorithm): Design a deep learning model, likely a convolutional neural network (CNN), to process and interpret the visual input. The model architecture is tailored to handle the specific task of autonomous driving, such as object detection, lane following, or obstacle avoidance.
 
-- PPO Training: Utilize the Proximal Policy Optimization (PPO) algorithm to train the deep learning model. PPO is a reinforcement learning algorithm that optimizes policies through iterative updates. During training, the model interacts with the simulated environment, receives rewards or penalties based on its actions, and adjusts its policy accordingly to maximize performance.
+- [PPO Training](https://openai.com/research/openai-baselines-ppo): Utilize the Proximal Policy Optimization (PPO) algorithm to train the deep learning model. PPO is a reinforcement learning algorithm that optimizes policies through iterative updates. During training, the model interacts with the simulated environment, receives rewards or penalties based on its actions, and adjusts its policy accordingly to maximize performance.
 
-- Training and Evaluation: Train the deep learning model on the combined dataset using the PPO algorithm. Evaluate the performance of the model by testing it in various driving scenarios within the Carla simulator, measuring metrics such as accuracy, safety, and efficiency.
+- [Training and Evaluation](https://www.researchgate.net/publication/369776800_Deep_Reinforcement_Learning_for_Vision-Based_Navigation_of_UAVs_in_Avoiding_Stationary_and_Mobile_Obstacles): Train the deep learning model on the combined dataset using the PPO algorithm. Evaluate the performance of the model by testing it in various driving scenarios within the Carla simulator, measuring metrics such as accuracy, safety, and efficiency.
 
-- Iterative Refinement: Iterate and refine the model and training process based on evaluation results. This may involve adjusting hyperparameters, modifying the model architecture, or incorporating additional techniques to enhance performance and address any shortcomings.
+- [Iterative Refinement](https://blogs.mathworks.com/cleve/2015/02/16/iterative-refinement-for-solutions-to-linear-systems/): Iterate and refine the model and training process based on evaluation results. This may involve adjusting hyperparameters, modifying the model architecture, or incorporating additional techniques to enhance performance and address any shortcomings.
+
+
 ## AI Application
 - Object Detection and Recognition: AI algorithms, such as convolutional neural networks (CNNs), are used to detect and recognize objects in the environment surrounding the vehicle. This enables the autopilot system to identify and track vehicles, pedestrians, traffic signs, and other relevant objects.
 
@@ -80,7 +82,7 @@ The objective of developing an autopilot system for autonomous driving can vary 
 
 ## Model
 
-The Proximal Policy Optimization (PPO) algorithm is a reinforcement learning algorithm that is widely used in training autonomous driving models and other applications. It is designed to optimize policies in environments where an agent (such as the autopilot system) learns to make sequential decisions to maximize its cumulative rewards.
+The [Proximal Policy Optimization (PPO)](https://spinningup.openai.com/en/latest/algorithms/ppo.html) algorithm is a reinforcement learning algorithm that is widely used in training autonomous driving models and other applications. It is designed to optimize policies in environments where an agent (such as the autopilot system) learns to make sequential decisions to maximize its cumulative rewards.
 
 ![High-level-diagram-of-the-proximal-policy-optimization-algorithm](https://github.com/priyanka011011/Auto-Pilot/assets/63203112/e34bfc9f-822d-403d-a3b6-e754d29f1615)
 
