@@ -80,6 +80,8 @@ The objective of developing an autopilot system for autonomous driving can vary 
 
 The Proximal Policy Optimization (PPO) algorithm is a reinforcement learning algorithm that is widely used in training autonomous driving models and other applications. It is designed to optimize policies in environments where an agent (such as the autopilot system) learns to make sequential decisions to maximize its cumulative rewards.
 
+![High-level-diagram-of-the-proximal-policy-optimization-algorithm](https://github.com/priyanka011011/Auto-Pilot/assets/63203112/e34bfc9f-822d-403d-a3b6-e754d29f1615)
+
 ## Dataset
 
 This dataset encompasses about 60 individual drives of a 2020 Tesla Model 3 with Autopilot in its relevant operational domain covering more than 1,000 miles. The majority of the data was collected during highway and suburban driving. Information collected includes vehicle CAN data as well as Lidar and camera data from a vehicle mounted sensor array. Vehicle CAN data and information on traffic surrounding the Ego-vehicle derived from the sensor array are postprocessed and merged to provide one combined CVS data file per drive. 
