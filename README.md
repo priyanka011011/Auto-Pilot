@@ -40,7 +40,7 @@ Using deep learning techniques, an autopilot system for autonomous driving was d
 ## Business Segments
 Autopilot systems and autonomous driving technologies have the potential to impact various business segments. Here are some key business segments that can benefit from the development and implementation of autopilot systems:
 
-1. [Automotive Manufacturers]: Traditional automotive manufacturers can incorporate autopilot features into their vehicles, offering advanced driver-assistance systems [ADAS](https://www.aptiv.com/en/insights/article/what-is-adas#:~:text=Advanced%20driver%2Dassistance%20systems%20(ADAS,active%20safety%E2%80%9D%20are%20used%20interchangeably)  and autonomous driving capabilities. This allows them to compete in the evolving automotive market and cater to customers seeking enhanced safety and convenience.
+1. [Automotive Manufacturers]: Traditional automotive manufacturers can incorporate autopilot features into their vehicles, offering advanced driver-assistance systems [ADAS](https://www.synopsys.com/automotive/what-is-adas.html)  and autonomous driving capabilities. This allows them to compete in the evolving automotive market and cater to customers seeking enhanced safety and convenience.
 
 2. [Ride-Hailing and Ride-Sharing Services]: Companies operating in the ride-hailing and ride-sharing industry can leverage autopilot systems to offer self-driving vehicle services. This could reduce operating costs by eliminating the need for human drivers and provide an improved customer experience with efficient and safe transportation.
 
